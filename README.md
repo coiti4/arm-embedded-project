@@ -86,7 +86,7 @@ Debugging can be performed using GDB and OpenOCD, with the provided se203.gdb co
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Acknowledgments
 
