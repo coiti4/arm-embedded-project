@@ -21,6 +21,7 @@ The project follows a structured approach to embedded system development, coveri
 
 ## Project Structure
 
+```
 arm-embedded-project/
 ├── 📄 .gitignore # Git exclusion rules
 ├── 📁 .vscode/ # VS Code configuration files
@@ -45,6 +46,7 @@ arm-embedded-project/
 ├── 📄 Makefile # Build system configuration (compiler flags, targets)
 ├── 📄 se203.gdb # Debugger configuration (GDB scripts)
 └── 📄 README.md # Project documentation (overview, usage, setup)
+```
 
 ## Key Functionalities
 
