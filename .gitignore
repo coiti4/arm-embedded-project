@@ -1,0 +1,5 @@
+*.o
+!clocks.o
+*.elf
+a.out
+*.d
